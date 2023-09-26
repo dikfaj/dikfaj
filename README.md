@@ -4,7 +4,7 @@ Currently I am a self-taught Data Analyst. So I hope one day I get a job as a Da
 I use this page to accommodate my learning results and I use it to show my skills to recruiters.
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase [my projects](https://github.com/dikfaj).
+Welcome to my portfolio, where I showcase [my projects](https://github.com/dikfaj/PortfolioProject)
 
 ## 🛠️ Tools
 Language: SQL <br/>
