@@ -7,7 +7,7 @@ I use this page to accommodate my learning results and I use it to show my skill
 Welcome to my portfolio, where I showcase [my projects](https://github.com/dikfaj/PortfolioProject)
 
 ## 🛠️ Tools
-Language: SQL <br/>
+Language: Python <br/>
 Database: PostgreSQL <br/>
 Visualization: Tableau <br/>
 
